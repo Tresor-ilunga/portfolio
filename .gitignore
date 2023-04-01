@@ -12,6 +12,12 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+.vscode/
+
+.astro/
+
+/node_modules/
+
 
 # environment variables
 .env
